@@ -1,0 +1,51 @@
+#bb_admin_table th.check-column{
+	padding:15px 5px !important;
+}
+#bb_admin_table td.bb_desc {
+	text-align:center;
+}
+#bb_admin_table td.bb_desc p {
+	margin:0;
+	padding:15px;
+}
+#bb_admin_table td.bb_btn_td{
+	padding:15px !important;
+}
+.bb_copy_btn {
+	padding: 10px 25px;
+	cursor:pointer;
+}
+th.bb_shortcode_text {
+	vertical-align:middle !important;
+}
+.bb_shortcode_text p{
+	margin:0 !important;
+	padding:5px;
+	width:fit-content;
+}
+.bb_shortcode_text p.active{
+	background-color:#318EFD;
+	color:#fff;
+}
+.bb_shortcode_text input {
+	width: 100%;
+    padding: 5px 5px !important;
+    border: none;
+	background-color: transparent;
+	display:none;
+}
+.bb_shortcode_text input:focus {
+	border: none;
+    outline: none;
+    box-shadow: none;
+}
+.bb_input{
+	display:none;
+}
+.bbride_instruction_wrapper {
+    margin: 0px 19px 5px 0px;
+    padding: 24px 0 10px 0;
+    background: none;
+    border: none;
+    border-bottom: 1px dotted #ccc;
+}
